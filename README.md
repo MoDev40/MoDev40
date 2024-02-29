@@ -9,7 +9,7 @@ MoDev40/MoDev40 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# About Me
+## About Me
 
 Hi there! 👋 I'm Mukhtar, a passionate developer who loves to create meaningful and innovative solutions. Here's a bit about me:
 
