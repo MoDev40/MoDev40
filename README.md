@@ -18,6 +18,8 @@ Hi there! 👋 I'm Mukhtar, a passionate developer who loves to create meaningfu
 - 🌐 I thrive on creating seamless user experiences and optimizing performance.
 - 🛠️ I enjoy working with modern development tools and exploring new technologies.
 
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDev40&layout=compact)](https://github.com/MoDev40/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDev40&layout=compact)](https://github.com/MoDev40/github-readme-stats)
+
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoDev40&show_icons=true&count_private=true)](https://github.com/MoDev40/github-readme-stats)
 
 Feel free to explore my projects, and don't hesitate to reach out for collaboration or just to chat about all things tech!
